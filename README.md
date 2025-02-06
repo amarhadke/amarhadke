@@ -13,7 +13,7 @@ Passionate about turning data into actionable insights and creating impactful vi
 - **Tools:** Excel, Power BI, Canva
 - **Other:** Data Visualization, Data Cleaning, Dashboard Creation
 ## Get in Touch
-- 💼 **[LinkedIn]www.linkedin.com/in/amarhadke**
+- 💼 **LinkedIn: www.linkedin.com/in/amarhadke**
 - 📧 **Email:** er.amarhadke@gmail.com
 
 
