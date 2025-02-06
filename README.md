@@ -3,6 +3,7 @@
 
 Passionate about turning data into actionable insights and creating impactful visualizations. Exploring the intersection of data and creativity one project at a time!
 ## About Me
+- Seeking Data Analyst Roles to Leverage My Skills and Experience.
 - 🔍 I’m currently learning **Data Analytics** using Python, Power BI, Excel and SQL.
 - 📈 I love working on projects that involve **data cleaning, visualization, and analysis**.
 - 🌟 I believe in continuous learning and enjoy sharing my journey on LinkedIn.
