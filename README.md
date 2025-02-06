@@ -32,6 +32,26 @@ Passionate about turning raw data into **actionable insights** and creating **im
 
 ---
 
+## 💡 Soft Skills  
+
+### 🗣️ **Communication & Collaboration**  
+✅ Strong verbal and written communication skills  
+✅ Ability to explain complex data insights in a clear, understandable manner  
+✅ Experience working with cross-functional teams  
+
+### 🔍 **Problem-Solving & Analytical Thinking**  
+✅ Proficient in identifying trends and anomalies in data  
+✅ Strong attention to detail with a solution-oriented mindset  
+✅ Ability to break down large datasets into meaningful insights  
+
+### ⏳ **Time Management & Adaptability**  
+✅ Effective at managing multiple projects simultaneously  
+✅ Quick learner with a growth mindset  
+✅ Ability to adapt to new tools and technologies swiftly  
+
+
+---
+
 ## 🌐 Connect with Me  
 
 💼 **LinkedIn:** [Amar Hadke](https://www.linkedin.com/in/amarhadke)  
