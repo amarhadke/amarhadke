@@ -1,5 +1,9 @@
 # Hi there! 👋 I'm Amar Hadke  
 
+**Resume** :https://drive.google.com/file/d/11bwsKTrwTvrphHRBWHkbjbrtkp-oAV0Y/view?usp=sharing
+
+---
+
 🎓 **Bachelor of Engineering Graduate** | 📊 **Aspiring Data Analyst** | 💻 **Lifelong Learner**  
 
 Passionate about turning raw data into **actionable insights** and creating **impactful visualizations**. Exploring the intersection of **data and creativity**—one project at a time! 🚀  
